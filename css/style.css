@@ -493,4 +493,7 @@ footer button .icons-svg {
 }
 .footer-email p {
   color: #ffffff;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
